@@ -30,9 +30,9 @@ shared_scripts {
 }
 
 escrow_ignore{
-    'mc_functions.lua',
-    'Config.lua',
-    'client/warmenu.lua'
+    'client/mc_functions.lua',
+    'client/warmenu.lua',
+    'Config.lua'
 }
 
 author 'Team MijnClan Intranet & GMS'
