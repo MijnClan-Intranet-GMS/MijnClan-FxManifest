@@ -30,7 +30,8 @@ shared_scripts {
 }
 
 escrow_ignore{
-    'config.lua',
+    'mc_functions.lua',
+    'Config.lua',
     'client/warmenu.lua'
 }
 
