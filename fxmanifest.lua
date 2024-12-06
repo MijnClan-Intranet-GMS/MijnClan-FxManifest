@@ -38,3 +38,5 @@ escrow_ignore{
 author 'Team MijnClan Intranet & GMS'
 description 'Dit is de core om de ingame functionaliteiten te verbinden met het MijnClan paneel.'
 version '0.0.5'
+
+dependency '/assetpacks'
