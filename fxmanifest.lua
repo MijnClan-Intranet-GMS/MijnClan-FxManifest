@@ -2,15 +2,6 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-files {
-    'html/ui.html',
-    'html/style.css',
-    'html/image.png',
-    'html/pager.png'
-}
-
-ui_page 'html/ui.html'
-
 server_scripts {
     'server/server.lua'
 }
