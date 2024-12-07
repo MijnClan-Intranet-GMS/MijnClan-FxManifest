@@ -3,7 +3,8 @@ game 'gta5'
 lua54 'yes'
 
 server_scripts {
-    'server/server.lua'
+    'server/server.lua',
+    'server/s_functions.lua'
 }
 
 client_scripts {
